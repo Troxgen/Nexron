@@ -1,0 +1,13 @@
+C:\Users\troxg\source\repos\Nexron\Nexron\bin\Debug\Nexron.exe.config
+C:\Users\troxg\source\repos\Nexron\Nexron\bin\Debug\Nexron.exe
+C:\Users\troxg\source\repos\Nexron\Nexron\bin\Debug\Nexron.pdb
+C:\Users\troxg\source\repos\Nexron\Nexron\bin\Debug\Zeroit.Framework.Metro.dll
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.csproj.AssemblyReference.cache
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.Properties.Resources.resources
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.csproj.GenerateResource.cache
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.csproj.CoreCompileInputs.cache
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.csproj.Up2Date
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.exe
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.pdb
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\Nexron.exe.config
+C:\Users\troxg\source\repos\Nexron\Nexron\obj\Debug\VoiceCommandProcessor.Form1.resources
